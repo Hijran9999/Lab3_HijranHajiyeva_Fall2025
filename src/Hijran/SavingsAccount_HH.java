@@ -1,6 +1,5 @@
 package Hijran;
 
-
 public class SavingsAccount_HH extends BankAccount_HH {
 
     // Constructor calls parent class
